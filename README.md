@@ -1,5 +1,5 @@
 # CodeNext
-My first actual repo
+My repo
 
 I am excited to be learning this stuff!
 Im hungry and I want food.
